@@ -1,0 +1,8 @@
+[Desktop Entry]
+Comment=InfoNES
+Exec=InfoNES
+Icon=InfoNES
+Type=Application
+Name=InfoNES
+CanFastload=1
+Display=640x480/144dpi,480x640/144dpi

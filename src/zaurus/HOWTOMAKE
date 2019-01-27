@@ -1,0 +1,9 @@
+# ビルド方法
+# (1) 全体を最適化あり（-O6）でビルド
+#     % make
+# (2) GCC最適化バグで不具合がでる部分は最適化なし（-O0）でビルド
+#     % sh < HOWTOMAKE
+# (3) 最後にその部分を取り込んでビルド
+#     % make
+
+arm-linux-g++ -c -pipe -DQT_QWS_EBX -DQT_QWS_CUSTOM -DQWS -fno-exceptions -fno-rtti -W -O0 -DNO_DEBUG -I/opt/Qtopia/sharp/include -I/opt/Qtopia/sharp/include -o ../InfoNES_pApu.o ../InfoNES_pAPU.cpp

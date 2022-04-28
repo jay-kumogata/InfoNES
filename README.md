@@ -1,6 +1,10 @@
 # InfoNES
 NES Emulator in C++
 
+## Summary
+InfoNES is a NES emulator that runs on various platforms.<br>
+Please refer to the information below for how to play.
+
 ## Known source ports
 |Platform|Author|URL|
 |--------|------|---|

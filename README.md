@@ -10,7 +10,7 @@ Please refer to the information below for how to play.
 ## Known source ports
 |Platform|Author|URL|
 |--------|------|---|
-|PlayStation Portable|TMK|https://archive.org/details/info-nes-r-03.7z|
+|PlayStation Portable|TMK|https://github.com/PSP-Archive/InfoNES|
 |iPhone|stepwhite<br>nervegas|http://code.google.com/p/iphonenes/<br>YouTube: https://www.youtube.com/watch?v=LVh429Dp7r0|
 |Android|Scott Glover|https://sourceforge.net/projects/infones-droid/|
 |Rockbox|Nathaniel|https://github.com/pcwizzy37/infones-rockbox|

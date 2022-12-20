@@ -67,6 +67,7 @@ InfoNES has been ported to various platforms.
 |Raspberry Pi<br>Arm Linux|nejidev|https://github.com/nejidev/arm-NES-linux|
 |Android|Tonyfield|https://github.com/Tonyfield/Nester|
 |Raspberry Pi Pico|Shuichi Takano|https://github.com/shuichitakano/pico-infones<br>Twitter: https://twitter.com/shuichi_takano/status/1477702448907419649|
+|Raspberry Pi Pico with SD Card|Frank Hoedemakers|https://github.com/fhoedemakers/pico-infonesPlus|
 
 ## Disclaimer
 InfoNES is freeware. There is no guarantee. The author is not responsible for any damages caused by this software.  

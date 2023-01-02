@@ -13,10 +13,10 @@ InfoNES is a Family Computer emulator that runs on SDL/Linux.
 - [A\]: Select
 - [X]: A button
 - [Z]: B button 
-- [up-arrow]: Up button 
-- [down-arrow]: Down button 
-- [right-arrow]: Right button 
-- [left-arrow]: Left button 
+- [Up-arrow]: Up button 
+- [Down-arrow]: Down button 
+- [Right-arrow]: Right button 
+- [Left-arrow]: Left button 
 ### System
 - [ESC]: Terminate emulation
 - [ALT] + [Enter]: Toggle full screen mode and window mode 
@@ -71,4 +71,4 @@ InfoNES has been ported to various platforms.
 
 ## Disclaimer
 InfoNES is freeware. There is no guarantee. The author is not responsible for any damages caused by this software.  
-Family Computer is a trademarks of Ninetendo Co., Ltd.
+Family Computer is a trademarks of Nintendo Co., Ltd.

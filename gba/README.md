@@ -7,6 +7,8 @@ This release is intended for developers to publish the source list, to make comm
 At the moment, it is quite slow, so it is difficult to play on a real machine.
 If your purpose is to play, we recommend using other emulators.
 
+![](https://github.com/jay-kumogata/InfoNES/blob/master/screenshots/infones_gba.gif)
+
 ## How to run
 
 1. Copy the ROM file (e.g. sample.nes) to the gba\bin folder
@@ -18,7 +20,7 @@ If your purpose is to play, we recommend using other emulators.
 
 	> ./kakipee.exe sample.nes
 
-1. Execute the emulator ROM file in which the ROM file is written from the GBA emulator (e.g. VisualBoyAdvance)
+1. Execute the emulator ROM file, in which the ROM file is written, from the GBA emulator (e.g. VisualBoyAdvance)
 
 ## Specification
 ### CPU
@@ -40,11 +42,11 @@ If your purpose is to play, we recommend using other emulators.
 - [START\]: Start
 - [SELECT\]: Select
 - [A\]: A
-- [B]: B
-- [Up-arrow]: Up-arrow
-- [Down-arrow]: Down-arrow
-- [Right-arrow]: Right-arrow
-- [Left-arrow]: Left-arrow
+- [B\]: B
+- [Up-arrow\]: Up-arrow
+- [Down-arrow\]: Down-arrow
+- [Right-arrow\]: Right-arrow
+- [Left-arrow\]: Left-arrow
 
 ## How to compile
 

@@ -3,7 +3,7 @@
 ## Introduction
 InfoNES is a Family Computer emulator that runs on SDL/Linux.
 
-![](https://github.com/jay-kumogata/InfoNES/blob/master/screenshots/infones_gba.gif)
+![](https://github.com/jay-kumogata/InfoNES/blob/master/screenshots/infones_gba.png)
 
 ## How to run
 

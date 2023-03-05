@@ -7,7 +7,7 @@ This release is intended for developers to publish the source list, to make comm
 At the moment, it is quite slow, so it is difficult to play on a real machine.
 If your purpose is to play, we recommend using other emulators.
 
-![](https://github.com/jay-kumogata/InfoNES/blob/master/screenshots/infones_gba.gif)
+![](https://github.com/jay-kumogata/InfoNES/blob/master/screenshots/infones_gba.png)
 
 ## How to run
 

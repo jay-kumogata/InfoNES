@@ -1,6 +1,5 @@
-## GBA�œ��삷��t�@�~�R���G�~�����[�^�J���L
+## GBAで動作するファミコンエミュレータ開発記
 
 ### 2023-03-06
 
-�Â��t�@�C���𐮗����Ă�����CGBA�œ��삷��FC�G�~���̃\�[�X�ƃo�C�i�����o�Ă����̂ŁCGitHub�̕��ɏグ�܂����D[�ʐ^](https://github.com/jay-kumogata/InfoNES/blob/master/screenshots/infones_gba.png)�́CVirtualBoyAdvance�iGBA�G�~���j�̏�œ��삷��CInfoNES Advance�i�t�@�~�R���G�~���j�̏�œ��삷��CCMC '99 Stars SE�i�f���j�ł��D
-
+古いファイルを整理していたら，GBAで動作するFCエミュのソースとバイナリが出てきたので，GitHubの方に上げました．[写真](https://github.com/jay-kumogata/InfoNES/blob/master/screenshots/infones_gba.png)は，VirtualBoyAdvance（GBAエミュ）の上で動作する，InfoNES Advance（ファミコンエミュ）の上で動作する，CMC '99 Stars SE（デモ）です．

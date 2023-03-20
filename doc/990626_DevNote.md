@@ -241,8 +241,9 @@ Mapper #4の場合（ほかのMapperでも），スキャンラインベース�
 
 ### 2023-03-19
 
-25年も前に書いたコードが，[PicoSystem](https://shop.pimoroni.com/products/picosystem)という欧州の自作用ゲーム機で動いているとの[知らせ](https://twitter.com/frenskefrens/status/1637439574375800832)が届きました．
+25年以上前に書いたコードが，欧州の携帯ゲーム機で動いているという[知らせ](https://twitter.com/frenskefrens/status/1637439574375800832)が届きました．
 過去にも似たような知らせがありましたが，毎回少し不思議な気分になります．
-[Known source ports](https://github.com/jay-kumogata/InfoNES/tree/master#known-source-ports)には追加しておきました．
+[PicoSystem](https://shop.pimoroni.com/products/picosystem)というRP2040ベースの携帯ゲーム機を使用しているようです．
+[Known source ports](https://github.com/jay-kumogata/InfoNES/tree/master#known-source-ports)の方には，追加しました．
 
 以上

@@ -239,4 +239,10 @@ Mapper #4の場合（ほかのMapperでも），スキャンラインベース�
 
 問題なのは，点数表示の開始時点で，$2006に書き込みがあるのですが，$2007へは書き込みはないため，なんの目的で$2006へ書き込んでいるかが，いまいち不明なことです（詳しい方，コメントお願いします）．
 
+### 2023-03-19
+
+25年も前に書いたコードが，[PicoSystem](https://shop.pimoroni.com/products/picosystem)という欧州の自作用ゲーム機で動いているとの[知らせ](https://twitter.com/frenskefrens/status/1637439574375800832)が届きました．
+過去にも似たような知らせがありましたが，毎回少し不思議な気分になります．
+[Known source ports](https://github.com/jay-kumogata/InfoNES/tree/master#known-source-ports)には追加しておきました．
+
 以上

@@ -74,6 +74,7 @@ InfoNES has been ported to various platforms.
 |Raspberry Pi Pico with SD Card|Frank Hoedemakers|https://github.com/fhoedemakers/pico-infonesPlus<br>YouTube: https://www.youtube.com/watch?v=OEcpNMNzZCQ|
 |[PicoSystem](https://shop.pimoroni.com/products/picosystem)|Frank Hoedemakers|https://github.com/fhoedemakers/PicoSystem_InfoNes<br>Twitter: https://twitter.com/frenskefrens/status/1637439574375800832|
 |RP2040 with ILI9341 LCD|pondahai|https://github.com/pondahai/rp2040-ili9341-infones<br>YouTube: https://www.youtube.com/shorts/_yGHtf-_yRU|
+|[Murmulator](https://murmulator.ru/)|Ilya Maslennikov|https://github.com/xrip/pico-nes|
 
 ## Disclaimer
 InfoNES is freeware. There is no guarantee. The author is not responsible for any damages caused by this software.  

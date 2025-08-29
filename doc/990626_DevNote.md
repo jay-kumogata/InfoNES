@@ -246,4 +246,8 @@ Mapper #4の場合（ほかのMapperでも），スキャンラインベース�
 [PicoSystem](https://shop.pimoroni.com/products/picosystem)というRP2040ベースの携帯ゲーム機を使用しているようです．
 [Known source ports](https://github.com/jay-kumogata/InfoNES/tree/master#known-source-ports)の方には，追加しました．
 
+### 2024-12-22
+
+完成品，[購入](https://ja.aliexpress.com/item/1005007438769671.html)できるのね❤．
+
 以上

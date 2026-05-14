@@ -64,21 +64,22 @@ InfoNES has been ported to various platforms.
 
 |Platform|Author|URL|
 |--------|------|---|
-|PlayStation Portable|TMK|Github: https://github.com/PSP-Archive/InfoNES<br>Internet Archive: https://archive.org/details/info-nes-r-03.7z|
-|iPhone|stepwhite<br>nervegas|Googlecode: http://code.google.com/p/iphonenes/<br>YouTube: https://www.youtube.com/watch?v=LVh429Dp7r0|
-|Android|Scott Glover|Sourceforge: https://sourceforge.net/projects/infones-droid/|
-|Rockbox|Nathaniel|Github: https://github.com/pcwizzy37/infones-rockbox|
-|STM32F429I-DISCO|Woody|Github: https://github.com/Woody00h/InfoNES|
-|Embedded linux<br>based on ZLG easyARM imax283 board|yongzhena|Github: https://github.com/yongzhena/infoNES|
-|Raspberry Pi<br>Arm Linux|nejidev|Github: https://github.com/nejidev/arm-NES-linux|
-|Android|Tonyfield|Github: https://github.com/Tonyfield/Nester|
-|Raspberry Pi Pico|Shuichi Takano|Github: https://github.com/shuichitakano/pico-infones<br>Twitter: https://twitter.com/shuichi_takano/status/1477702448907419649|
-|Raspberry Pi Pico with SD Card|Frank Hoedemakers|Github: https://github.com/fhoedemakers/pico-infonesPlus<br>YouTube: https://www.youtube.com/watch?v=OEcpNMNzZCQ|
-|[PicoSystem](https://shop.pimoroni.com/products/picosystem)|Frank Hoedemakers|Github: https://github.com/fhoedemakers/PicoSystem_InfoNes<br>Twitter: https://twitter.com/frenskefrens/status/1637439574375800832|
-|RP2040 with ILI9341 LCD|pondahai|Github: https://github.com/pondahai/rp2040-ili9341-infones<br>YouTube: https://www.youtube.com/shorts/_yGHtf-_yRU|
-|[Murmulator](https://murmulator.ru/)|Ilya Maslennikov|Github: https://github.com/xrip/pico-nes|
-|[Picopad](https://picopad.eu/en/index.html)|Miroslav Nemecek|URL: https://www.breatharian.eu/hw/picolibsdk/index_en.html#nes<br>Twitter: https://x.com/TororoLab/status/1989999786641232124|
-|A Virtual platform<br> with the standard RISC-V processor|Zdenek Prikryl and Pavel Snobl|Paper: https://riscv-europe.org/summit/2025/media/proceedings/2025-05-13-RISC-V-Summit-Europe-P2.1.01-PRIKRYL-abstract.pdf<br>Poster: https://riscv-europe.org/summit/2025/media/proceedings/2025-05-13-RISC-V-Summit-Europe-P2.1.01-PRIKRYL-poster.pdf|
+|PlayStation Portable|TMK|[Github](https://github.com/PSP-Archive/InfoNES)<br>[Internet Archive](https://archive.org/details/info-nes-r-03.7z)|
+|iPhone|stepwhite<br>nervegas|[Googlecode](http://code.google.com/p/iphonenes/)<br>[YouTube](https://www.youtube.com/watch?v=LVh429Dp7r0)|
+|Android|Scott Glover|[Sourceforge](https://sourceforge.net/projects/infones-droid/)|
+|Rockbox|Nathaniel|[Github](https://github.com/pcwizzy37/infones-rockbox)|
+|STM32F429I-DISCO|Woody|[Github](https://github.com/Woody00h/InfoNES)|
+|Embedded linux<br>based on ZLG easyARM imax283 board|yongzhena|[Github](https://github.com/yongzhena/infoNES)|
+|Raspberry Pi<br>Arm Linux|nejidev|[Github](https://github.com/nejidev/arm-NES-linux)|
+|Android|Tonyfield|[Github](https://github.com/Tonyfield/Nester)|
+|Raspberry Pi Pico|Shuichi Takano|[Github](https://github.com/shuichitakano/pico-infones)<br>[Twitter](https://twitter.com/shuichi_takano/status/1477702448907419649)|
+|Raspberry Pi Pico with SD Card|Frank Hoedemakers|[Github](https://github.com/fhoedemakers/pico-infonesPlus)<br>[YouTube](https://www.youtube.com/watch?v=OEcpNMNzZCQ)|
+|[PicoSystem](https://shop.pimoroni.com/products/picosystem)|Frank Hoedemakers|[Github](https://github.com/fhoedemakers/PicoSystem_InfoNes)<br>[Twitter](https://twitter.com/frenskefrens/status/1637439574375800832)|
+|RP2040 with ILI9341 LCD|pondahai|[Github](https://github.com/pondahai/rp2040-ili9341-infones)<br>[YouTube](https://www.youtube.com/shorts/_yGHtf-_yRU)|
+|[Murmulator](https://murmulator.ru/)|Ilya Maslennikov|[Github](https://github.com/xrip/pico-nes)|
+|[Picopad](https://picopad.eu/en/index.html)|Miroslav Nemecek|[URL](https://www.breatharian.eu/hw/picolibsdk/index_en.html#nes)<br>[Twitter](https://x.com/TororoLab/status/1989999786641232124)|
+|A Virtual platform<br> with the standard RISC-V processor|Zdenek Prikryl and Pavel Snobl|[Paper](https://riscv-europe.org/summit/2025/media/proceedings/2025-05-13-RISC-V-Summit-Europe-P2.1.01-PRIKRYL-abstract.pdf)<br>[Poster](https://riscv-europe.org/summit/2025/media/proceedings/2025-05-13-RISC-V-Summit-Europe-P2.1.01-PRIKRYL-poster.pdf)|
+|PicoCalc|FuyukiYoneyama|[Github](https://github.com/FuyukiYoneyama/Picocalc_NESco)<br>[Twitter](https://x.com/YoneyamaFuyuki/status/2053446714808565929)|
 
 ## Disclaimer
 InfoNES is freeware. There is no guarantee. 
